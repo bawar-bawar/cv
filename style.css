@@ -18,3 +18,68 @@ body{
     text-align: center;
 }
 
+/* .///////////////////////////////////////////////////// */
+body{
+    margin: 0;
+}
+
+#nav-item-middle{
+
+    padding:0px 10px 2px 10px  ;
+}
+.top-navbar{
+    background-color:#fb5e33; 
+    color: white;
+    padding: 1% 10% ;
+  
+}
+
+.top-navbar a1:hover{
+  color: black;
+
+}
+.middle-navbar{
+    background-color:rgb(242,230,188);
+    color: white;
+    
+
+}
+.home-icon{
+width: 18px;
+height: 18px;
+
+}
+.shopping-cart{
+
+widows: 30px;
+height: 30px;
+
+}
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+  .dropdown-menu{
+
+    background-color: rgb(242,230,188);
+  }
+
+
+  .dropdown-item{
+text-align: center;
+
+  }
+
+  .dropdown-item:hover{
+    background-color:#fb5e33; 
+    border-radius: 20%;
+
+   
+  }
+
+
+.bg-dark{
+    background-color: #fb5e33  !important;
+}
