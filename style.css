@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding:0;
+    display: block;
+}
+
+.row{
+    background-color:#fb5e33; 
+  }
+
+.header-top .nav-link{
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+
+.logo{
+    text-align: center;
+}
+
