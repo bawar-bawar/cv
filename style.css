@@ -5,7 +5,7 @@ html{
 
 body{
     margin: 0;
-    background-image: url("images/image-lion-background.png");
+    background-image: url(images/image-lion-background.png);
     background-repeat: no-repeat;
     background-position: center;
     font-family: Arial, Helvetica, sans-serif;
